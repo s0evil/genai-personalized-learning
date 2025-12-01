@@ -1,11 +1,6 @@
 # QuiZenius AI - Smart Learning, Enhanced by AI 📚🤖
 
 QuiZenius AI is an intelligent learning platform that tailors educational content based on user input. It leverages AI to generate personalized lessons or quizzes depending on the learner’s needs, familiarity level, and available time. This project builds on SambaNova’s AI Starter Kit, incorporating customization for a streamlined user experience.
-👉 [Click here to watch the demo video](https://drive.google.com/file/d/1fm8TFoUsveF3u6dJTJ0BxundQVqP2hfl/view?usp=sharing)
-
-## User Interface
-
-![QuiZenius AI Tool UI](https://drive.google.com/uc?id=1-keB_NkrOP0ylqrQEwcAk5_hyKENxT9T)
 
 ## ✨ Features
 - **Personalized Learning:** Generate AI-driven lessons or quizzes on any topic, customized to the learner's familiarity level and time availability.
@@ -104,7 +99,3 @@ QuiZenius AI uses the **RACE Technique** to generate personalized lessons or qui
 - Incorporate additional language models for greater flexibility in content generation.
 - Add support for multiple file formats beyond PDFs (e.g., Word documents).
 - **Integrate a Chatbot:** Implement an AI-powered chatbot to clarify doubts in real-time, providing users with instant assistance on topics or concepts they are struggling with.
-
-## Developed By
-**Malaiarasu GRaj**  
-[LinkedIn](https://www.linkedin.com/in/malaiarasu-g-raj-38b695252/) | [GitHub](https://github.com/MalaiarasuGRaj)
